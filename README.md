@@ -19,15 +19,11 @@ If you find my work useful and you want to encourage the development of more fre
 
 ##feature
 
-1.AMS5600 and Quadrature Encoder Supported
-
-2.Intelligent Tuning of the Motor Current
-
-3.Up to 30Khz Pulse Input Supported
-
-4.Up to 60Khz Stepper Driver PWM with Trapezoid Acceleration
-
-5.Internal PID Speed Controller
+1. AMS5600 and Quadrature Encoder Supported  
+2. Intelligent Tuning of the Motor Current  
+3. Up to 30Khz Pulse Input Supported  
+4. Up to 60Khz Stepper Driver PWM with Trapezoid Acceleration  
+5. Internal PID Speed Controller  
 
 ##driver
 1. A4988 and Drv8825 supported.
