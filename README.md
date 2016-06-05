@@ -29,6 +29,19 @@ If you find my work useful and you want to encourage the development of more fre
 
 5.Internal PID Speed Controller
 
+##driver
+1. A4988 and Drv8825 supported.
+2. PWM DA function supported.With the  Tale:
+    *PWM frequence needs to be up to 10Khz*
+
+| IC| divider resistance | Capacitance | 5V| 3.3V
+| ---------------- | ---------------- | ---------------- | ---------------- | ---------------- 
+| A4988 | 10KOhm | 0.1uf | 4.7KOhm | 10KOhm
+| drv8825 | 10KOhm | 0.1uf | 3.3KOhm | 2.7KOhm
+
+circuit: voltage division circuit with a Capacitance(0.1uf)  
+More Info : _A4988 and Drv8825 datasheet_.  
+
 # Eagle
 
 Eagle 7.2 Used
