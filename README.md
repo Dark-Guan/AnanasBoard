@@ -40,7 +40,7 @@ If you find my work useful and you want to encourage the development of more fre
 | drv8825 | 10KOhm | 0.1uf | 3.3KOhm | 2.7KOhm
 
 circuit: voltage division circuit with a Capacitance(0.1uf)  
-More Info : _A4988 and Drv8825 datasheet_.  
+More Info : _[A4988](http://www.allegromicro.com/~/media/Files/Datasheets/A4988-Datasheet.ashx?la=zh-CN"A4988") and [Drv8825](http://www.ti.com/lit/ds/symlink/drv8825.pdf"Drv8825")datasheet_.  
 
 # Eagle
 
