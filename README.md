@@ -3,7 +3,8 @@
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
 <img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">知识共享署名 4.0 国际许可协议</a>进行许可。
 
-If you want to give some help.
+如果你认为我做的这些对你来说是有价值的, 并鼓励我进行更多开源和免费的开发. 那你可以资助我, 就算是一杯咖啡...
+If you find my work useful and you want to encourage the development of more free resources, you can do it by donating...
 
 Paypal
 <a rel="donate1" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8GQHVZ7YR8NZE">
