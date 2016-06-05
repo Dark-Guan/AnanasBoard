@@ -11,7 +11,7 @@ Paypal
         
 Alipay
 <a rel="donate2" href="https://github.com/Dark-Guan/AnanasBoard/blob/master/apcazu6ntbjy04py09.png">
-<img alt="Alipay" style="border-width:0" size="400x400" src="https://img.alipay.com/sys/personalprod/style/mc/btn-index.png" />
+<img alt="Alipay" style="border-width:1"  src="https://github.com/Dark-Guan/AnanasBoard/blob/master/apcazu6ntbjy04py09.png" />
 
 
 
