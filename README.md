@@ -10,10 +10,12 @@ If you find my work useful and you want to encourage the development of more fre
 
 
 <a rel="donate1" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8GQHVZ7YR8NZE">
-<img alt="PalpayDonate" style="border-width:0" src="https://github.com/Dark-Guan/AnanasBoard/blob/master/donate-with-paypal.png" />
+<img alt="PalpayDonate" style="border-width:0" src="https://github.com/Dark-Guan/AnanasBoard/blob/master/donate-with-paypal.png" /></a>
 
 <a rel="donate2" href="https://raw.githubusercontent.com/Dark-Guan/AnanasBoard/master/apcazu6ntbjy04py09.png">
-<img alt="Alipay" style="border-width:0"  src="https://github.com/Dark-Guan/AnanasBoard/blob/master/donate-with-alipay.png" />
+<img alt="Alipay" style="border-width:0"  src="https://github.com/Dark-Guan/AnanasBoard/blob/master/donate-with-alipay.png" /></a>
+
+
 
 ##feature
 
