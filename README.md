@@ -5,8 +5,14 @@
 
 If you want to give some help.
 
-<a rel="license" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8GQHVZ7YR8NZE">
-<img alt="知识共享许可协议" style="border-width:0" src="https://www.paypalobjects.com/zh_XC/i/btn/btn_donate_LG.gif" /></a><br />
+<a rel="donate1" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8GQHVZ7YR8NZE">
+<img alt="PalpayDonate" style="border-width:0" src="https://www.paypalobjects.com/zh_XC/i/btn/btn_donate_LG.gif" />
+
+
+<a rel="donate2" href=" ">
+<img alt="Alipay" style="https://github.com/Dark-Guan/AnanasBoard/blob/master/apcazu6ntbjy04py09.png" />
+
+
 
 
 
