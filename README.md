@@ -6,13 +6,12 @@
 如果你认为我做的这些对你来说是有价值的, 并鼓励我进行更多开源和免费的开发. 那你可以资助我, 就算是一杯咖啡...
 If you find my work useful and you want to encourage the development of more free resources, you can do it by donating...
 
-Paypal
+
 <a rel="donate1" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8GQHVZ7YR8NZE">
-<img alt="PalpayDonate" style="border-width:0" src="https://www.paypalobjects.com/zh_XC/i/btn/btn_donate_LG.gif" />
-        
-Alipay
+<img alt="PalpayDonate" style="border-width:0" src="https://github.com/Dark-Guan/AnanasBoard/blob/master/donate-with-paypal.png" />
+
 <a rel="donate2" href="https://github.com/Dark-Guan/AnanasBoard/blob/master/apcazu6ntbjy04py09.png">
-<img alt="Alipay" style="border-width:1"  src="https://github.com/Dark-Guan/AnanasBoard/blob/master/apcazu6ntbjy04py09.png" />
+<img alt="Alipay" style="border-width:0"  src="https://github.com/Dark-Guan/AnanasBoard/blob/master/donate-with-alipay.png" />
 
 
 
