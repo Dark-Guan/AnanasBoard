@@ -10,7 +10,7 @@ If you want to give some help.
 
 
 <a rel="donate2" href=" ">
-<img alt="Alipay" style="https://github.com/Dark-Guan/AnanasBoard/blob/master/apcazu6ntbjy04py09.png" />
+<img alt="Alipay" src="https://github.com/Dark-Guan/AnanasBoard/blob/master/apcazu6ntbjy04py09.png" />
 
 
 
