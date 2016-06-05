@@ -31,7 +31,7 @@ If you find my work useful and you want to encourage the development of more fre
 
 # Eagle
 
-Eagle 3.5 Used
+Eagle 7.2 Used
 
 # SoftWare
 
