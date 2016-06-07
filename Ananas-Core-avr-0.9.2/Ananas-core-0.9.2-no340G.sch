@@ -13350,6 +13350,11 @@ https://github.com/Dark-Guan/AnanasBoard</text>
 <wire x1="-2.54" y1="83.82" x2="2.54" y2="83.82" width="0.1524" layer="91"/>
 <label x="2.54" y="83.82" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="J5" gate="G$1" pin="3"/>
+<wire x1="-25.4" y1="137.16" x2="-20.32" y2="137.16" width="0.1524" layer="91"/>
+<label x="-20.32" y="137.16" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="DA" class="0">
 <segment>
@@ -13361,6 +13366,11 @@ https://github.com/Dark-Guan/AnanasBoard</text>
 <pinref part="J7" gate="G$1" pin="1"/>
 <wire x1="-2.54" y1="81.28" x2="2.54" y2="81.28" width="0.1524" layer="91"/>
 <label x="2.54" y="81.28" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="J6" gate="G$1" pin="3"/>
+<wire x1="-25.4" y1="121.92" x2="-20.32" y2="121.92" width="0.1524" layer="91"/>
+<label x="-20.32" y="121.92" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="SDA" class="0">
@@ -13764,40 +13774,6 @@ https://github.com/Dark-Guan/AnanasBoard</text>
 <segment>
 <pinref part="LED1" gate="G$1" pin="C"/>
 <pinref part="R3" gate="G$1" pin="2"/>
-</segment>
-</net>
-<net name="S1" class="0">
-<segment>
-<pinref part="U1" gate="G$1" pin="ADC6"/>
-<wire x1="-157.48" y1="127" x2="-162.56" y2="127" width="0.1524" layer="91"/>
-<label x="-167.64" y="127" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="J3" gate="G$1" pin="7"/>
-<wire x1="-33.02" y1="78.74" x2="-30.48" y2="78.74" width="0.1524" layer="91"/>
-<label x="-30.48" y="78.74" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="J5" gate="G$1" pin="3"/>
-<wire x1="-25.4" y1="137.16" x2="-20.32" y2="137.16" width="0.1524" layer="91"/>
-<label x="-22.86" y="137.16" size="1.778" layer="95"/>
-</segment>
-</net>
-<net name="S2" class="0">
-<segment>
-<pinref part="U1" gate="G$1" pin="ADC7"/>
-<wire x1="-157.48" y1="124.46" x2="-162.56" y2="124.46" width="0.1524" layer="91"/>
-<label x="-167.64" y="124.46" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="J3" gate="G$1" pin="6"/>
-<wire x1="-33.02" y1="76.2" x2="-30.48" y2="76.2" width="0.1524" layer="91"/>
-<label x="-30.48" y="76.2" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="J6" gate="G$1" pin="3"/>
-<wire x1="-25.4" y1="121.92" x2="-20.32" y2="121.92" width="0.1524" layer="91"/>
-<label x="-22.86" y="121.92" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="SYNC" class="0">
