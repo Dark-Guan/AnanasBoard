@@ -33,7 +33,7 @@ If you find my work useful and you want to encourage the development of more fre
 | IC| divider resistance | Capacitance | 5V| 3.3V
 | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- 
 | A4988 | 10KOhm | 0.1uf | 4.7KOhm | 10KOhm
-| drv8825 | 10KOhm | 0.1uf | 3.3KOhm | 2.7KOhm
+| drv8825 | 10KOhm | 0.1uf | 2.7KOhm | 3.3KOhm
 
 circuit: voltage division circuit with a Capacitance(0.1uf)  
 More Info : _[A4988](http://www.allegromicro.com/~/media/Files/Datasheets/A4988-Datasheet.ashx?la=zh-CN) and [Drv8825](http://www.ti.com/lit/ds/symlink/drv8825.pdf)datasheet_.  
@@ -43,7 +43,8 @@ More Info : _[A4988](http://www.allegromicro.com/~/media/Files/Datasheets/A4988-
 Eagle 7.2 Used
 
 # SoftWare
-
+https://git.oschina.net/GaryPillow/Ananas
+## back up
 https://github.com/Dark-Guan/Ananas
 
 https://github.com/Dark-Guan/Ananas/tree/master/binary
